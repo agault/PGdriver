@@ -1,8 +1,1 @@
-{
-  "user": "development",
-  "password": "development",
-  "database": "vagrant",
-  "hostname": "localhost",
-  "port": 5432,
-  "ssl": true
-}
+settings.json
